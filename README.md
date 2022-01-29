@@ -22,3 +22,7 @@ Machine Learning:
 Predicting the volume of eruption:
 KNN model,
 MLP - Neuron network model.
+
+
+
+Made by Liad Arama and Binyamin Haimov
