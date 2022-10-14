@@ -1,4 +1,4 @@
-# <ins>**ML Volcano Eruption Project**</ins>
+# **<ins>ML Volcano Eruption Project</ins>**
 
 This project was made by two dear friends who had a question in mind:
 Can we predict Volcano Eruptions using ML models? or atleast predict their scale of the eruption using those models?<br />
@@ -21,9 +21,9 @@ What feature vectors acquired from our data aqcuisition.<br />
 
 # Machine Learning:
 Predicting the volume of eruption:<br />
-**KNN** model<br />
-**NLP** - Neuron network model.<br />
+**<ins>KNN</ins>** model<br />
+**<ins>NLP</ins>** - Neuron network model.<br />
 <br />
 
-
+`diff
 # **Made by Liad Arama and Binyamin Haimov**
