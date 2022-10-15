@@ -26,6 +26,6 @@ Predicting the volume of eruption: :sparkler:<br />
 :two:**<ins>NLP</ins>** - Neuron network model.<br />
 <br />
 
-#Project Made by Liad Arama and Binyamin Haimov
+# Project Made by Liad Arama and Binyamin Haimov
 
 Github - Liad Arama
