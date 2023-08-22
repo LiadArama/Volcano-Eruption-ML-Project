@@ -1,6 +1,6 @@
 # <ins>**ML Volcano Eruption Project**</ins> :volcano:
 
-This project was made by two friends who had a question in mind :thought_balloon: <br />
+This project was made by a question I had in mind :thought_balloon: <br />
 Can we predict Volcano Eruptions using ML models?<br /> Or atleast predict their scale of eruption using those models?<br />
 
 ## <ins>Data Aqcuisition</ins> :floppy_disk:
